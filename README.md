@@ -1,6 +1,6 @@
 # Wetter App ☂️
 
-enter your city and press Enter
+Enter your city and press Enter
 
 I have made this project to learn JS by building applications.
 
@@ -8,4 +8,4 @@ I have made this project to learn JS by building applications.
 
 
 
-⭐ Deployed at: (<>)
+⭐ Deployed at: (<https://js-wetter-api.netlify.app/>)
